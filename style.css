@@ -3,3 +3,88 @@
     margin: 0;
     font-family: sans-serif;
 }
+.logo{
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    align-items: center;
+}
+.tlogo{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+.button{
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #FF7A50;
+    width: 100px;
+    height: 45px;
+    border: none;
+    color: white;
+}
+.gskuter{
+    height:500px;
+    /* background-color: bisque; */
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.textskuter{
+    font-size: 21px;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.foodo{
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #FF7A50;
+    width: 100px;
+    height: 45px;
+    border: none;
+    color: white;
+}
+.suratois{
+    width: 600px;
+    height: 500px;
+    /* background-color: blue; */
+    position: relative;
+}
+.s1{
+    height: 500px;
+    position: absolute;
+}
+.s2{
+    height: 120px;
+    position: absolute;
+    left: 365px;
+    top: 170px;
+}
+.s3{
+    position: absolute;
+    height: 60px;
+    left: 160px;
+}
+.s4{
+    position: absolute;
+    height: 80px;
+    top: 70px;
+    left: 25px;
+}
+.s5{
+    position: absolute;
+    height: 150px;
+    left: 380px;
+    top: 40px;
+}
+.s6{
+    position: absolute;
+    height: 60px;
+    left: 415px;
+    top: 13px;
+}
