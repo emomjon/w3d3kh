@@ -88,3 +88,109 @@
     left: 415px;
     top: 13px;
 }
+.h1holi{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.burger{
+    background-color: #FF7A50;
+    height: 30px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 12px;
+}
+.tburger{
+    color: white;
+}
+.gburgero{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+.burger1{
+    background-color: white;
+    height: 30px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 12px;
+}
+.tburger1{
+    color: black;
+}
+.burger2{
+    background-color: white;
+    height: 30px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 12px;
+}
+.tburger2{
+    color: black;
+}
+.burger3{
+    background-color: white;
+    height: 30px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 12px;
+}
+.tburger3{
+    color: black;
+}
+.burger4{
+    background-color: white;
+    height: 30px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 12px;
+}
+.tburger24{
+    color: black;
+}
+.cheesbur{
+    background-color: white;
+    width: 200px;
+    height: 250px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 8px;
+}
+.drnib{
+    background-color: #FF7A50;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    margin: auto;
+    padding: 2px;
+}
+.tcheesbur{
+    line-height: 25px;
+}
+.glavnichs{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    margin-bottom: 30px;
+}
+.knopka{
+    text-align: center;
+    margin-bottom: 90px;
+}
