@@ -221,3 +221,34 @@
 .tdostavka{
     font-size: 18px;
 }
+.bpizza{
+    width: 350px;
+    height: 380px;
+    background-color: white;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 5px;
+}
+.tbpizza{
+    padding: 5px;
+    line-height: 40px;
+}
+.flex{
+    display: flex;
+    gap: 80px;
+}
+.butt{
+    border: none;
+    width: 60px;
+    height: 30px;
+    background-color: #FF7A50;
+    color: white;
+    border-radius: 20px;
+}
+.gbpizza{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 70px;
+}
