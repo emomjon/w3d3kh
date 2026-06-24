@@ -188,9 +188,36 @@
     display: flex;
     justify-content: center;
     gap: 35px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .knopka{
     text-align: center;
     margin-bottom: 90px;
+}
+.dostavka{
+    height: 600px;
+    /* background-color: bisque; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.timer{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.see{
+    width: 120px;
+    height: 35px;
+    background-color: #FF7A50;
+    text-align: center;
+    padding: 5px;
+    color: white;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.tdostavka{
+    font-size: 18px;
 }
